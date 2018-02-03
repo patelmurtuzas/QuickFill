@@ -1,6 +1,6 @@
 {
   "name": "QuickFillGas",
-  "app_id": "",
+  "app_id": "c161d25f",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
